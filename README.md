@@ -25,8 +25,12 @@ graph TD
 - ESP32-WROOM-32 >> Main microcontroller
 - BH1750 >> Light intensity
 - INA219 >> Current/power monitoring
+- DHT11 >> Humidity and Temperature Sensor
+- BME280 >> Ambient Pressure Sensor
+- DS1307 >> RTC module
+- LCD2004 >> LCD Display
 - NCR18650B	>> Battery power
-- 2W Solar Panel >> Renewable charging
+- 2*2W Solar Panel >> 4W Renewable charging
 
 ## 🚀 Solution Architecture
 **Three-Tier System:**
