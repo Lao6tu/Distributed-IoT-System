@@ -1,11 +1,11 @@
 # Distributed IoT & Performance Analytics for PV System
 
-<img src="images/IMG_2418.jpg" width="500" alt="image">
-<img src="images/grafana.jpg" width="500" alt="image">
-
 ## 📊 Project Overview
 This project focuses on developing a distributed IoT system to monitor and analyze the performance of solar panel installations. 
 The system collects comprehensive data from solar plants, stores it in a local SQL database, and visualizes the data through interactive dashboards.
+
+<img src="images/IMG_2418.jpg" width="500" alt="image">
+<img src="images/grafana.jpg" width="500" alt="image">
 
 ## 🔍 Project Objectives
 - Develop IoT-based solar monitoring system
