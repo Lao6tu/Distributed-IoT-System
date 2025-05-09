@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Styling for tabs */
+.react-tabs__tab-list {
+  background-color: #1E1E1E; /* Dark background color for the tab bar */
+  color: white; /* Bright text color for the tabs */
+}
