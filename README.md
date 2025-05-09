@@ -1,4 +1,4 @@
-# Distributed IoT & Performance Analytics for PV System [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Distributed IoT & Performance Analytics for PV System
 
 ## 📊 Project Overview
 This project focuses on developing a distributed IoT system to monitor and analyze the performance of solar panel installations. 
