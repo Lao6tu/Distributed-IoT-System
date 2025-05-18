@@ -51,7 +51,7 @@ graph TD
 
 3. **Analytics Layer**  
    - Real-time Grafana dashboards  
-   - Predictive ML models (85% accuracy)  
+   - Predictive ML models (90% accuracy)  
    - Fault detection algorithms
 
 ## 🌟 Unique Features
